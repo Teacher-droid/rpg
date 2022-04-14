@@ -6,7 +6,7 @@ application up and running.
 
 
 
-<a href="https://teacher-droid.github.io/rpg/"><img src="https://toppng.com/uploads/preview/39kib-538x234-logo-rpg-role-playing-games-logo-115632079366ueccxbtln.png" width="20%" /></a>
+<a href="https://teacher-droid.github.io/rpg/"><img src="https://i.imgur.com/0jeOc0F.png" width="20%" /></a>
 
 <h1 align ="center">
             RPG
