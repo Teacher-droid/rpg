@@ -27,8 +27,8 @@ application up and running.
 # Process by following ⚙️
 
 
-`Download` the folder & open the index.html file in Web browser (I suggest Brave or Google Chrome).
-`Open` your console.
+`Download` the folder & open the index.html file in Web browser (I suggest Brave or Google Chrome).<br>
+`Open` your console.<br>
  Here we go, feel free to play
 
 <hr>
