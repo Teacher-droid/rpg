@@ -4,6 +4,7 @@ export default class Turn {
   }
 
   startTurn = () => {
+    alert(`Round ${this.roundNumber}`);
     this.roundNumber += 1;
     console.log(`You are now reaching round ${this.roundNumber}`);
     if (this.roundNumber === 10) {
